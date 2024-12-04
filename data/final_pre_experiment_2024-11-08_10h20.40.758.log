@@ -1,0 +1,84 @@
+10.2534 	INFO 	Loaded monitor calibration from ['2024_08_09 13:47']
+10.2653 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1440, 900]. Using actual size
+10.5349 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee190>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee130>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fc14efa0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f98fc11a3d0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.5350 	EXP 	window1: backgroundImage = ''
+10.5350 	EXP 	window1: backgroundFit = 'none'
+10.5353 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5357 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5389 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5398 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5902 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5904 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5913 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.5921 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f98fbaee2b0>
+10.6137 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.6137 	EXP 	window1: recordFrameIntervals = False
+10.8690 	EXP 	window1: recordFrameIntervals = True
+11.3034 	EXP 	Screen (0) actual frame rate measured at 118.45Hz
+11.3034 	EXP 	window1: recordFrameIntervals = False
+11.3055 	EXP 	window1: mouseVisible = False
+14.4189 	INFO 	keyboard.Keyboard is using iohub backend.
+14.4190 	INFO 	keyboard.Keyboard is using iohub backend.
+14.4200 	INFO 	keyboard.Keyboard is using iohub backend.
+14.4200 	EXP 	experiment: status = STARTED
+14.4206 	EXP 	window1: mouseVisible = False
+14.4708 	EXP 	Created text_norm = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+14.5427 	EXP 	Sound sound_1 set volume 1.000
+14.5431 	EXP 	window1: mouseVisible = False
+14.5641 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.2, 0.7]), texRes=128.0, units='height', win=Window(...))
+0.0142 	EXP 	text_norm: alignText = 'left'
+0.0290 	INFO 	Keyboard events cleared
+0.0287 	EXP 	text_norm: autoDraw = True
+0.0287 	EXP 	text_norm: height = 0.1
+0.0287 	EXP 	text_norm: height = 0.1
+0.0287 	EXP 	text_norm: height = 0.1
+0.0287 	EXP 	text_norm: text = 'Welcome to the experiment.\n\nPress the spacebar to continue'
+1.4231 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+1.4234 	EXP 	New trial (rep=0, index=0): None
+1.4381 	EXP 	Sound sound_1 started
+1.4409 	DATA 	Keypress: space
+1.4486 	EXP 	text_norm: autoDraw = False
+1.9086 	EXP 	Sound sound_1 reached end of file
+1.9087 	EXP 	Sound sound_1 reached end of file
+1.9196 	INFO 	Keyboard events cleared
+1.9193 	EXP 	image: autoDraw = True
+3.4519 	EXP 	New trial (rep=1, index=0): None
+3.4651 	EXP 	Sound sound_1 started
+3.4570 	DATA 	Keypress: z
+3.4627 	EXP 	image: autoDraw = False
+3.9355 	EXP 	Sound sound_1 reached end of file
+3.9356 	EXP 	Sound sound_1 reached end of file
+3.9658 	INFO 	Keyboard events cleared
+3.9653 	EXP 	image: autoDraw = True
+8.4084 	EXP 	New trial (rep=2, index=0): None
+8.4234 	EXP 	Sound sound_1 started
+8.4251 	DATA 	Keypress: z
+8.4309 	EXP 	image: autoDraw = False
+8.8939 	EXP 	Sound sound_1 reached end of file
+8.8940 	EXP 	Sound sound_1 reached end of file
+8.9163 	INFO 	Keyboard events cleared
+8.9157 	EXP 	image: autoDraw = True
+9.5506 	EXP 	New trial (rep=3, index=0): None
+9.5654 	EXP 	Sound sound_1 started
+9.5534 	DATA 	Keypress: z
+9.5590 	EXP 	image: autoDraw = False
+10.0359 	EXP 	Sound sound_1 reached end of file
+10.0360 	EXP 	Sound sound_1 reached end of file
+10.0526 	INFO 	Keyboard events cleared
+10.0524 	EXP 	image: autoDraw = True
+11.1520 	EXP 	New trial (rep=4, index=0): None
+11.1671 	EXP 	Sound sound_1 started
+11.1550 	DATA 	Keypress: z
+11.1605 	EXP 	image: autoDraw = False
+11.6377 	EXP 	Sound sound_1 reached end of file
+11.6378 	EXP 	Sound sound_1 reached end of file
+11.6445 	EXP 	Sound sound_1 reached end of file
+11.6445 	EXP 	Sound sound_1 reached end of file
+11.6535 	INFO 	Keyboard events cleared
+11.6533 	EXP 	image: autoDraw = True
+12.4352 	DATA 	Keypress: x
+12.4408 	EXP 	image: autoDraw = False
+12.4409 	EXP 	experiment: status = STOPPED
+12.4434 	INFO 	saved data to '/Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/final_pre_experiment_2024-11-08_10h20.40.758.csv'
+12.4441 	INFO 	saved data to /Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/final_pre_experiment_2024-11-08_10h20.40.758.psydat
+12.4649 	EXP 	window1: mouseVisible = True

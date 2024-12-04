@@ -1,0 +1,5 @@
+﻿trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,load_variables.started,load_variables.stopped,Welcome.started,key_instruct.started,Welcome.stopped,key_instruct.keys,key_instruct.rt,key_instruct.duration,training.started,text.started,training.stopped,training_block.started,trial_type,sound,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,0.03233116690535098,0.03280704189091921,,,,,,,,,,,,,213481,001,2024-11-08_18h23.44.474,experiment,2024.1.5,None,2024-11-08 18h23.52.853216 +0530,
+,,,,,,,,0.032832416938617826,0.045832374948076904,2.674092499888502,space,2.605472541996278,None,,,,,,,213481,001,2024-11-08_18h23.44.474,experiment,2024.1.5,None,2024-11-08 18h23.52.853216 +0530,
+,,,,,,,,,,,,,,2.6748758748872206,2.694299874943681,4.678945583989844,,,,213481,001,2024-11-08_18h23.44.474,experiment,2024.1.5,None,2024-11-08 18h23.52.853216 +0530,
+,,,,,,,,,,,,,,,,,4.678979291929863,training,stimuli/Left30_white_noise.wav,,,,,,,,

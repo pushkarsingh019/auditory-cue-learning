@@ -1,0 +1,103 @@
+8.8800 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+8.8810 	INFO 	Loaded monitor calibration from ['2024_08_09 13:47']
+9.1635 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc150d0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc15070>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc16e50>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f79cba31370>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.1636 	EXP 	window1: backgroundImage = ''
+9.1636 	EXP 	window1: backgroundFit = 'none'
+9.1639 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.1643 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.1676 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.1685 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.1779 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1789 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1799 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1812 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1824 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1839 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1856 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1869 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1879 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1887 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1897 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1915 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1930 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1954 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.1957 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.2012 	DEBUG 	Upload of Texture Font fontname complete
+9.2066 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.2068 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.2077 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.2085 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f79ccc151f0>
+9.2147 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2162 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2175 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2178 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.2212 	DEBUG 	Upload of Texture Font fontname complete
+9.2256 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.2257 	EXP 	window1: recordFrameIntervals = False
+9.4367 	EXP 	window1: recordFrameIntervals = True
+10.2704 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+10.2705 	EXP 	window1: mouseVisible = False
+10.2709 	EXP 	window1: mouseVisible = False
+10.2712 	EXP 	window1: mouseVisible = False
+10.2724 	EXP 	window1: mouseVisible = False
+10.2735 	EXP 	window1: mouseVisible = False
+10.2811 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2818 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2831 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2861 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2881 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2894 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2908 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2921 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2925 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2960 	DEBUG 	Upload of Texture Font fontname complete
+10.3001 	EXP 	window1: mouseVisible = False
+10.3003 	EXP 	window1: mouseVisible = False
+10.3012 	EXP 	window1: mouseVisible = False
+10.3020 	EXP 	window1: mouseVisible = False
+10.3538 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+13.4190 	INFO 	keyboard.Keyboard is using iohub backend.
+13.4191 	INFO 	keyboard.Keyboard is using iohub backend.
+13.4200 	INFO 	keyboard.Keyboard is using iohub backend.
+13.4201 	EXP 	experiment: status = STARTED
+13.4207 	EXP 	window1: mouseVisible = False
+13.4709 	EXP 	Created text_norm = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+13.5355 	EXP 	Sound sound_1 set volume 1.000
+13.5358 	EXP 	window1: mouseVisible = False
+13.5600 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1. , 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0076 	EXP 	text_norm: alignText = 'left'
+0.0278 	INFO 	Keyboard events cleared
+0.0274 	EXP 	text_norm: autoDraw = True
+0.0274 	EXP 	text_norm: height = 0.1
+0.0274 	EXP 	text_norm: height = 0.1
+0.0274 	EXP 	text_norm: height = 0.1
+0.0274 	EXP 	text_norm: text = 'Welcome to the experiment.\n\nPress the spacebar to continue'
+3.0267 	WARNING 	t of last frame was 23.04ms (=1/43)
+3.6604 	WARNING 	t of last frame was 23.58ms (=1/42)
+4.8606 	WARNING 	t of last frame was 26.03ms (=1/38)
+6.0212 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+6.0215 	EXP 	New trial (rep=0, index=0): None
+6.0266 	EXP 	Sound sound_1 started
+6.0379 	DATA 	Keypress: space
+6.0427 	WARNING 	t of last frame was 49.42ms (=1/20)
+6.0427 	EXP 	text_norm: autoDraw = False
+6.4980 	EXP 	Sound sound_1 reached end of file
+6.4980 	EXP 	Sound sound_1 reached end of file
+6.5182 	INFO 	Keyboard events cleared
+6.5179 	EXP 	image: autoDraw = True
+9.8208 	EXP 	window1: mouseVisible = True
+9.8225 	DEBUG 	Saving data for experiment ExperimentHandler
+9.8232 	INFO 	saved data to /Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/544298_experiment_2024-11-08_10h09.22.728.psydat
+9.8238 	INFO 	saved data to '/Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/544298_experiment_2024-11-08_10h09.22.728.csv'

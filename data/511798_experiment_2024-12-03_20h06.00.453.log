@@ -1,0 +1,32 @@
+7.9929 	INFO 	Loaded monitor calibration from ['2024_08_09 13:47']
+8.3699 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6460>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6400>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6250>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa919a74d30>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3700 	EXP 	window1: backgroundImage = ''
+8.3700 	EXP 	window1: backgroundFit = 'none'
+8.3704 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.3708 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.3749 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.3758 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.4325 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.4328 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.4337 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.4345 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fa9194b6580>
+8.4549 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.4549 	EXP 	window1: recordFrameIntervals = False
+8.7071 	EXP 	window1: recordFrameIntervals = True
+9.5475 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+9.5490 	EXP 	window1: mouseVisible = False
+12.2437 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2438 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2452 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2452 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2454 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2456 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2456 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2458 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2458 	EXP 	experiment: status = STARTED
+12.2759 	EXP 	window1: mouseVisible = True
+12.2783 	INFO 	saved data to /Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/511798_experiment_2024-12-03_20h06.00.453.psydat
+12.2795 	INFO 	saved data to '/Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/511798_experiment_2024-12-03_20h06.00.453.csv'

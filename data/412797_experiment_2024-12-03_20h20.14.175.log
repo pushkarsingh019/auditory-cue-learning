@@ -1,0 +1,234 @@
+8.5669 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+8.5678 	INFO 	Loaded monitor calibration from ['2024_08_09 13:47']
+8.8493 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c01580>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c01520>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c013a0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc9d2aadeb0>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8494 	EXP 	window1: backgroundImage = ''
+8.8494 	EXP 	window1: backgroundFit = 'none'
+8.8497 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8501 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8533 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8542 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8667 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8686 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8696 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8710 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8713 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8716 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8726 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8736 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8745 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8754 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8762 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8772 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8782 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8787 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8792 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8806 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8810 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8814 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8869 	DEBUG 	Upload of Texture Font fontname complete
+8.8921 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8923 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8932 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.8940 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fc9d1c016a0>
+8.9001 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9015 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9028 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9031 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.9072 	DEBUG 	Upload of Texture Font fontname complete
+8.9115 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.9116 	EXP 	window1: recordFrameIntervals = False
+9.0644 	EXP 	window1: recordFrameIntervals = True
+9.8974 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+9.8976 	EXP 	window1: mouseVisible = False
+9.8980 	EXP 	window1: mouseVisible = False
+9.8983 	EXP 	window1: mouseVisible = False
+9.8992 	EXP 	window1: mouseVisible = False
+9.9000 	EXP 	window1: mouseVisible = False
+9.9065 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9083 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9098 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9112 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9126 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9133 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9172 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9176 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.9212 	DEBUG 	Upload of Texture Font fontname complete
+9.9253 	EXP 	window1: mouseVisible = False
+9.9255 	EXP 	window1: mouseVisible = False
+9.9263 	EXP 	window1: mouseVisible = False
+9.9271 	EXP 	window1: mouseVisible = False
+9.9510 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+12.4028 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4029 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4042 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4043 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4044 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4045 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4046 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4047 	INFO 	keyboard.Keyboard is using iohub backend.
+12.4048 	EXP 	experiment: status = STARTED
+12.4058 	EXP 	window1: mouseVisible = False
+12.4594 	EXP 	Created text_norm = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+12.4596 	EXP 	window1: mouseVisible = False
+12.4637 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5189 	EXP 	Sound sound_1 set volume 1.000
+12.5191 	EXP 	window1: mouseVisible = False
+12.5679 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.5682 	EXP 	window1: mouseVisible = False
+12.5860 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.5862 	EXP 	window1: mouseVisible = False
+12.5914 	EXP 	Created fixation_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5925 	EXP 	Sound sound_3 set volume 1.000
+12.5926 	EXP 	window1: mouseVisible = False
+12.6273 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.6275 	EXP 	window1: mouseVisible = False
+12.6284 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.6285 	EXP 	window1: mouseVisible = False
+12.6347 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.6348 	EXP 	window1: mouseVisible = False
+12.6379 	EXP 	Created fixation_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.6389 	EXP 	Sound sound_5 set volume 1.000
+12.6390 	EXP 	window1: mouseVisible = False
+12.6719 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.6721 	EXP 	window1: mouseVisible = False
+12.6731 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.6732 	EXP 	window1: mouseVisible = False
+12.6787 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.6788 	EXP 	window1: mouseVisible = False
+12.6884 	EXP 	Created text_norm_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+12.6885 	EXP 	window1: mouseVisible = False
+12.6924 	EXP 	Created text_countdown = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.6926 	EXP 	window1: mouseVisible = False
+12.6954 	EXP 	Created fixation_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.6963 	EXP 	Sound sound_4 set volume 1.000
+12.6965 	EXP 	window1: mouseVisible = False
+12.7319 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.png', interpolate=True, mask=None, maskParams=None, name='image_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.5, 0.6]), texRes=128.0, units='height', win=Window(...))
+12.7321 	EXP 	window1: mouseVisible = False
+12.7422 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0139 	EXP 	text_norm: alignText = 'left'
+0.0139 	EXP 	text_norm: alignText = 'left'
+0.0354 	INFO 	Keyboard events cleared
+0.0350 	WARNING 	t of last frame was 21.15ms (=1/47)
+0.0350 	EXP 	text_norm: autoDraw = True
+0.0350 	EXP 	text_norm: height = 0.1
+0.0350 	EXP 	text_norm: height = 0.1
+0.0350 	EXP 	text_norm: height = 0.1
+0.0350 	EXP 	text_norm: text = 'Welcome to the experiment.\n\nPress the spacebar to continue'
+3.1510 	WARNING 	t of last frame was 23.29ms (=1/42)
+3.9970 	WARNING 	t of last frame was 26.49ms (=1/37)
+4.2847 	WARNING 	t of last frame was 23.53ms (=1/42)
+4.9097 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+5.5469 	DEBUG 	Read csv file with pandas: test_sounds.csv
+5.5486 	DEBUG 	Clearing unnamed columns from test_sounds.csv
+5.5494 	EXP 	Imported test_sounds.csv as conditions, 5 conditions, 4 params
+5.5501 	EXP 	Created sequence: random, trialTypes=5, nReps=0, seed=None
+5.5656 	DATA 	Keypress: space
+5.5704 	INFO 	Keyboard events cleared
+5.5700 	EXP 	text_norm: autoDraw = False
+5.5700 	EXP 	text: autoDraw = True
+6.9313 	DEBUG 	Read csv file with pandas: white_training.csv
+6.9320 	DEBUG 	Clearing unnamed columns from white_training.csv
+6.9326 	EXP 	Imported white_training.csv as conditions, 5 conditions, 4 params
+6.9350 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+6.9353 	EXP 	New trial (rep=0, index=0): OrderedDict([('file_path', 'training_stimuli/white_noise/left_30_white_training.wav'), ('angle', 30), ('channel', 'left'), ('corrAns', 'x')])
+6.9537 	DATA 	Keypress: space
+6.9573 	EXP 	text: autoDraw = False
+6.9573 	EXP 	fixation_2: autoDraw = True
+7.4343 	EXP 	Sound sound_3 started
+7.4510 	EXP 	fixation_2: autoDraw = False
+7.8941 	EXP 	Sound sound_3 reached end of file
+7.8942 	EXP 	Sound sound_3 reached end of file
+7.9294 	INFO 	Keyboard events cleared
+7.9290 	EXP 	image_3: autoDraw = True
+9.5593 	DATA 	Keypress: v
+9.5625 	EXP 	fixation_2: autoDraw = False
+9.5625 	EXP 	image_3: autoDraw = False
+9.5625 	EXP 	text_2: height = 0.05
+9.5625 	EXP 	text_2: height = 0.05
+9.5625 	EXP 	text_2: height = 0.05
+9.5625 	EXP 	text_2: text = 'Incorrect, the sound came from left 30'
+9.5625 	EXP 	image_4: image = 'feedback/left_30_response.png'
+9.5625 	EXP 	text_2: autoDraw = True
+9.5625 	EXP 	image_4: autoDraw = True
+12.0210 	EXP 	New trial (rep=0, index=1): OrderedDict([('file_path', 'training_stimuli/white_noise/left_90_white_training.wav'), ('angle', 90), ('channel', 'left'), ('corrAns', 'z')])
+12.0279 	EXP 	text_2: autoDraw = False
+12.0279 	EXP 	image_4: autoDraw = False
+12.0279 	EXP 	fixation_2: autoDraw = True
+12.5178 	EXP 	Sound sound_3 started
+12.5238 	EXP 	fixation_2: autoDraw = False
+12.9773 	EXP 	Sound sound_3 reached end of file
+12.9773 	EXP 	Sound sound_3 reached end of file
+13.0084 	INFO 	Keyboard events cleared
+13.0081 	EXP 	image_3: autoDraw = True
+13.5050 	DATA 	Keypress: z
+13.5083 	EXP 	fixation_2: autoDraw = False
+13.5083 	EXP 	image_3: autoDraw = False
+13.5083 	EXP 	text_2: height = 0.05
+13.5083 	EXP 	text_2: height = 0.05
+13.5083 	EXP 	text_2: height = 0.05
+13.5083 	EXP 	text_2: text = 'Correct, the sound came from left 90'
+13.5083 	EXP 	image_4: image = 'feedback/left_90_response.png'
+13.5083 	EXP 	text_2: autoDraw = True
+13.5083 	EXP 	image_4: autoDraw = True
+15.9710 	EXP 	New trial (rep=0, index=2): OrderedDict([('file_path', 'training_stimuli/white_noise/right_90_white_training.wav'), ('angle', 90), ('channel', 'right'), ('corrAns', 'b')])
+15.9775 	EXP 	text_2: autoDraw = False
+15.9775 	EXP 	image_4: autoDraw = False
+15.9775 	EXP 	fixation_2: autoDraw = True
+16.4680 	EXP 	Sound sound_3 started
+16.4740 	EXP 	fixation_2: autoDraw = False
+16.9274 	EXP 	Sound sound_3 reached end of file
+16.9274 	EXP 	Sound sound_3 reached end of file
+16.9588 	INFO 	Keyboard events cleared
+16.9585 	EXP 	image_3: autoDraw = True
+17.3344 	DATA 	Keypress: b
+17.3377 	EXP 	fixation_2: autoDraw = False
+17.3377 	EXP 	image_3: autoDraw = False
+17.3377 	EXP 	text_2: height = 0.05
+17.3377 	EXP 	text_2: height = 0.05
+17.3377 	EXP 	text_2: height = 0.05
+17.3377 	EXP 	text_2: text = 'Correct, the sound came from right 90'
+17.3377 	EXP 	image_4: image = 'feedback/right_90_response.png'
+17.3377 	EXP 	text_2: autoDraw = True
+17.3377 	EXP 	image_4: autoDraw = True
+19.8044 	EXP 	New trial (rep=0, index=3): OrderedDict([('file_path', 'training_stimuli/white_noise/center_0_white_training.wav'), ('angle', 0), ('channel', 'center'), ('corrAns', 'c')])
+19.8107 	EXP 	text_2: autoDraw = False
+19.8107 	EXP 	image_4: autoDraw = False
+19.8107 	EXP 	fixation_2: autoDraw = True
+20.3013 	EXP 	Sound sound_3 started
+20.3077 	EXP 	fixation_2: autoDraw = False
+20.7613 	EXP 	Sound sound_3 reached end of file
+20.7614 	EXP 	Sound sound_3 reached end of file
+20.7926 	INFO 	Keyboard events cleared
+20.7922 	EXP 	image_3: autoDraw = True
+26.3906 	DATA 	Keypress: x
+26.3941 	EXP 	fixation_2: autoDraw = False
+26.3941 	EXP 	image_3: autoDraw = False
+26.3941 	EXP 	text_2: height = 0.05
+26.3941 	EXP 	text_2: height = 0.05
+26.3941 	EXP 	text_2: height = 0.05
+26.3941 	EXP 	text_2: text = 'Incorrect, the sound came from center 0'
+26.3941 	EXP 	image_4: image = 'feedback/center_response.png'
+26.3941 	EXP 	text_2: autoDraw = True
+26.3941 	EXP 	image_4: autoDraw = True
+28.9582 	DATA 	Keypress: escape
+28.9662 	EXP 	New trial (rep=0, index=4): OrderedDict([('file_path', 'training_stimuli/white_noise/right_30_white_training.wav'), ('angle', 30), ('channel', 'right'), ('corrAns', 'v')])
+28.9686 	EXP 	experiment: status = STOPPED
+28.9805 	EXP 	text_2: autoDraw = False
+28.9805 	EXP 	image_4: autoDraw = False
+28.9805 	EXP 	fixation_2: autoDraw = True
+28.9805 	EXP 	fixation_2: autoDraw = False
+28.9834 	EXP 	experiment: status = STOPPED
+28.9884 	INFO 	saved data to '/Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/412797_experiment_2024-12-03_20h20.14.175.csv'
+28.9894 	INFO 	saved data to /Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/412797_experiment_2024-12-03_20h20.14.175.psydat
+29.0084 	EXP 	window1: mouseVisible = True
+29.8083 	DEBUG 	Saving data for experiment ExperimentHandler

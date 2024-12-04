@@ -1,0 +1,6 @@
+,file_path,angle,channel,corrAns
+0,test_stimuli/left_90_1000_test.wav,90,left,z
+1,test_stimuli/right_90_1000_test.wav,90,right,b
+2,test_stimuli/left_30_1000_test.wav,30,left,x
+3,test_stimuli/right_30_1000_test.wav,30,right,v
+4,test_stimuli/center_0_1000_test.wav,0,center,c

@@ -1,0 +1,5 @@
+﻿trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,load_variables.started,load_variables.stopped,Welcome.started,key_instruct.started,Welcome.stopped,key_instruct.keys,key_instruct.rt,key_instruct.duration,pretest.started,sound_1.started,image.started,key_resp.started,pretest.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,0.016114208032377064,0.01703820808324963,,,,,,,,,,,,,,,,535822,001,2024-11-08_10h10.46.410,experiment,2024.1.5,None,2024-11-08 10h10.53.228399 +0530,
+,,,,,,,,0.017068208078853786,0.029837624984793365,1.3801387919811532,space,1.320912041934207,None,,,,,,,,,,535822,001,2024-11-08_10h10.46.410,experiment,2024.1.5,None,2024-11-08 10h10.53.228399 +0530,
+0,0,0,0,1.4022350000450388,,,,,,,,,,1.3812163750408217,1.385891166406994,1.878913625027053,1.878913625027053,4.766279000090435,z,0,2.8854646660620347,None,535822,001,2024-11-08_10h10.46.410,experiment,2024.1.5,None,2024-11-08 10h10.53.228399 +0530,
+,,,,4.775829458027147,,,,,,,,,,4.767011207994074,4.77905670873976,5.2622800830286,5.2622800830286,,,,,,,,,,,,,

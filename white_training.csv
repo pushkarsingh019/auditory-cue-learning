@@ -1,0 +1,6 @@
+,file_path,angle,channel,corrAns
+0,training_stimuli/white_noise/left_90_white_training.wav,90,left,z
+1,training_stimuli/white_noise/right_90_white_training.wav,90,right,b
+2,training_stimuli/white_noise/left_30_white_training.wav,30,left,x
+3,training_stimuli/white_noise/right_30_white_training.wav,30,right,v
+4,training_stimuli/white_noise/center_0_white_training.wav,0,center,c

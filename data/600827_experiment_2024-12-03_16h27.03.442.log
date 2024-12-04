@@ -1,0 +1,862 @@
+17.9189 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+17.9198 	INFO 	Loaded monitor calibration from ['2024_08_09 13:47']
+18.2706 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804520>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a8044c0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804310>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fadfc1efee0>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.2707 	EXP 	window1: backgroundImage = ''
+18.2707 	EXP 	window1: backgroundFit = 'none'
+18.2710 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.2713 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.2748 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.2757 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.2899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2919 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2932 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2945 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2960 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2974 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2979 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.2992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3001 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3010 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3019 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3027 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3037 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3047 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3052 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3057 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3078 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3081 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.3142 	DEBUG 	Upload of Texture Font fontname complete
+18.3196 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.3198 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.3207 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.3215 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae0a804640>
+18.3278 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3292 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3305 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3308 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.3346 	DEBUG 	Upload of Texture Font fontname complete
+18.3390 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+18.3390 	EXP 	window1: recordFrameIntervals = False
+18.5006 	EXP 	window1: recordFrameIntervals = True
+19.3347 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+19.3348 	EXP 	window1: mouseVisible = False
+19.3352 	EXP 	window1: mouseVisible = False
+19.3355 	EXP 	window1: mouseVisible = False
+19.3366 	EXP 	window1: mouseVisible = False
+19.3377 	EXP 	window1: mouseVisible = False
+19.3455 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3461 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3474 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3506 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3526 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3552 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3565 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3568 	DEBUG 	Uploading Texture Font fontname to graphics card
+19.3603 	DEBUG 	Upload of Texture Font fontname complete
+19.3643 	EXP 	window1: mouseVisible = False
+19.3645 	EXP 	window1: mouseVisible = False
+19.3653 	EXP 	window1: mouseVisible = False
+19.3661 	EXP 	window1: mouseVisible = False
+19.3902 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+22.9771 	INFO 	keyboard.Keyboard is using iohub backend.
+22.9772 	INFO 	keyboard.Keyboard is using iohub backend.
+22.9785 	INFO 	keyboard.Keyboard is using iohub backend.
+22.9786 	INFO 	keyboard.Keyboard is using iohub backend.
+22.9788 	INFO 	keyboard.Keyboard is using iohub backend.
+22.9788 	EXP 	experiment: status = STARTED
+22.9798 	EXP 	window1: mouseVisible = False
+23.0468 	EXP 	Created text_norm = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+23.0470 	EXP 	window1: mouseVisible = False
+23.0513 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.8435 	EXP 	Sound sound_1 set volume 1.000
+23.8438 	EXP 	window1: mouseVisible = False
+23.8775 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.2, 0.7]), texRes=128.0, units='height', win=Window(...))
+23.8777 	EXP 	window1: mouseVisible = False
+23.8859 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='thank you for particpating.', units='height', win=Window(...), wrapWidth=1)
+23.8860 	EXP 	window1: mouseVisible = False
+23.8900 	EXP 	Created fixation_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.8910 	EXP 	Sound sound_3 set volume 1.000
+23.8911 	EXP 	window1: mouseVisible = False
+23.9039 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.2, 0.7]), texRes=128.0, units='height', win=Window(...))
+23.9041 	EXP 	window1: mouseVisible = False
+23.9050 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.9051 	EXP 	window1: mouseVisible = False
+23.9113 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.2, 0.7]), texRes=128.0, units='height', win=Window(...))
+23.9114 	EXP 	window1: mouseVisible = False
+23.9153 	EXP 	Created fixation_posttest = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_posttest', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.9163 	EXP 	Sound sound_2 set volume 1.000
+23.9164 	EXP 	window1: mouseVisible = False
+23.9279 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='response.PNG', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.2, 0.7]), texRes=128.0, units='height', win=Window(...))
+0.0081 	EXP 	text_norm: alignText = 'left'
+0.0324 	INFO 	Keyboard events cleared
+0.0320 	WARNING 	t of last frame was 23.91ms (=1/41)
+0.0320 	EXP 	text_norm: autoDraw = True
+0.0320 	EXP 	text_norm: height = 0.1
+0.0320 	EXP 	text_norm: height = 0.1
+0.0320 	EXP 	text_norm: height = 0.1
+0.0320 	EXP 	text_norm: text = 'Welcome to the experiment.\n\nPress the spacebar to continue'
+1.9683 	WARNING 	t of last frame was 22.69ms (=1/44)
+2.8187 	WARNING 	t of last frame was 23.18ms (=1/43)
+3.4852 	WARNING 	t of last frame was 23.75ms (=1/42)
+3.5184 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+7.7519 	DEBUG 	Read csv file with pandas: sounds_log.csv
+7.7533 	DEBUG 	Clearing unnamed columns from sounds_log.csv
+7.7541 	EXP 	Imported sounds_log.csv as conditions, 12 conditions, 3 params
+7.7566 	EXP 	Created sequence: random, trialTypes=12, nReps=20, seed=None
+7.7569 	EXP 	New trial (rep=0, index=0): OrderedDict([('sound_file_name', 'final_white_noise_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+7.7949 	DATA 	Keypress: space
+7.7999 	EXP 	text_norm: autoDraw = False
+7.7999 	EXP 	fixation: autoDraw = True
+8.2521 	EXP 	Sound sound_1 started
+8.2916 	EXP 	fixation: autoDraw = False
+8.7115 	EXP 	Sound sound_1 reached end of file
+8.7115 	EXP 	Sound sound_1 reached end of file
+8.7458 	INFO 	Keyboard events cleared
+8.7455 	EXP 	image: autoDraw = True
+10.1807 	EXP 	New trial (rep=0, index=1): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+10.1873 	DATA 	Keypress: v
+10.1911 	EXP 	fixation: autoDraw = False
+10.1911 	EXP 	image: autoDraw = False
+10.1911 	EXP 	fixation: autoDraw = True
+10.6850 	EXP 	Sound sound_1 started
+10.6855 	EXP 	fixation: autoDraw = False
+11.1449 	EXP 	Sound sound_1 reached end of file
+11.1449 	EXP 	Sound sound_1 reached end of file
+11.1757 	INFO 	Keyboard events cleared
+11.1754 	EXP 	image: autoDraw = True
+11.6066 	EXP 	New trial (rep=0, index=2): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+11.6221 	DATA 	Keypress: v
+11.6260 	EXP 	fixation: autoDraw = False
+11.6260 	EXP 	image: autoDraw = False
+11.6260 	EXP 	fixation: autoDraw = True
+12.1087 	EXP 	Sound sound_1 started
+12.1188 	EXP 	fixation: autoDraw = False
+12.5718 	EXP 	Sound sound_1 reached end of file
+12.5719 	EXP 	Sound sound_1 reached end of file
+12.6026 	INFO 	Keyboard events cleared
+12.6023 	EXP 	image: autoDraw = True
+12.9807 	EXP 	New trial (rep=0, index=3): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+12.9860 	DATA 	Keypress: z
+12.9898 	EXP 	fixation: autoDraw = False
+12.9898 	EXP 	image: autoDraw = False
+12.9898 	EXP 	fixation: autoDraw = True
+13.4851 	EXP 	Sound sound_1 started
+13.4859 	EXP 	fixation: autoDraw = False
+13.9449 	EXP 	Sound sound_1 reached end of file
+13.9449 	EXP 	Sound sound_1 reached end of file
+13.9759 	INFO 	Keyboard events cleared
+13.9756 	EXP 	image: autoDraw = True
+14.3303 	EXP 	New trial (rep=0, index=4): OrderedDict([('sound_file_name', 'final_pure_tone_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+14.3357 	DATA 	Keypress: z
+14.3398 	EXP 	fixation: autoDraw = False
+14.3398 	EXP 	image: autoDraw = False
+14.3398 	EXP 	fixation: autoDraw = True
+14.8351 	EXP 	Sound sound_1 started
+14.8357 	EXP 	fixation: autoDraw = False
+15.2949 	EXP 	Sound sound_1 reached end of file
+15.2949 	EXP 	Sound sound_1 reached end of file
+15.3258 	INFO 	Keyboard events cleared
+15.3255 	EXP 	image: autoDraw = True
+16.2569 	EXP 	New trial (rep=0, index=5): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+16.2622 	DATA 	Keypress: c
+16.2660 	EXP 	fixation: autoDraw = False
+16.2660 	EXP 	image: autoDraw = False
+16.2660 	EXP 	fixation: autoDraw = True
+16.7597 	EXP 	Sound sound_1 started
+16.7583 	EXP 	fixation: autoDraw = False
+17.2219 	EXP 	Sound sound_1 reached end of file
+17.2219 	EXP 	Sound sound_1 reached end of file
+17.2527 	INFO 	Keyboard events cleared
+17.2524 	EXP 	image: autoDraw = True
+18.0070 	EXP 	New trial (rep=0, index=6): OrderedDict([('sound_file_name', 'final_white_noise_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+18.0123 	DATA 	Keypress: x
+18.0163 	EXP 	fixation: autoDraw = False
+18.0163 	EXP 	image: autoDraw = False
+18.0163 	EXP 	fixation: autoDraw = True
+18.5100 	EXP 	Sound sound_1 started
+18.5082 	EXP 	fixation: autoDraw = False
+18.9719 	EXP 	Sound sound_1 reached end of file
+18.9719 	EXP 	Sound sound_1 reached end of file
+19.0029 	INFO 	Keyboard events cleared
+19.0027 	EXP 	image: autoDraw = True
+19.6735 	EXP 	New trial (rep=0, index=7): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+19.6789 	DATA 	Keypress: z
+19.6827 	EXP 	fixation: autoDraw = False
+19.6827 	EXP 	image: autoDraw = False
+19.6827 	EXP 	fixation: autoDraw = True
+20.1755 	EXP 	Sound sound_1 started
+20.1758 	EXP 	fixation: autoDraw = False
+20.6389 	EXP 	Sound sound_1 reached end of file
+20.6389 	EXP 	Sound sound_1 reached end of file
+20.6696 	INFO 	Keyboard events cleared
+20.6694 	EXP 	image: autoDraw = True
+22.0903 	EXP 	New trial (rep=0, index=8): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+22.0959 	DATA 	Keypress: c
+22.0997 	EXP 	fixation: autoDraw = False
+22.0997 	EXP 	image: autoDraw = False
+22.0997 	EXP 	fixation: autoDraw = True
+22.5923 	EXP 	Sound sound_1 started
+22.5927 	EXP 	fixation: autoDraw = False
+23.0557 	EXP 	Sound sound_1 reached end of file
+23.0557 	EXP 	Sound sound_1 reached end of file
+23.0863 	INFO 	Keyboard events cleared
+23.0860 	EXP 	image: autoDraw = True
+23.5902 	EXP 	New trial (rep=0, index=9): OrderedDict([('sound_file_name', 'final_white_noise_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+23.5955 	DATA 	Keypress: v
+23.5993 	EXP 	fixation: autoDraw = False
+23.5993 	EXP 	image: autoDraw = False
+23.5993 	EXP 	fixation: autoDraw = True
+24.0929 	EXP 	Sound sound_1 started
+24.0919 	EXP 	fixation: autoDraw = False
+24.5553 	EXP 	Sound sound_1 reached end of file
+24.5553 	EXP 	Sound sound_1 reached end of file
+24.5863 	INFO 	Keyboard events cleared
+24.5861 	EXP 	image: autoDraw = True
+25.0472 	EXP 	New trial (rep=0, index=10): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+25.0523 	DATA 	Keypress: v
+25.0568 	EXP 	fixation: autoDraw = False
+25.0568 	EXP 	image: autoDraw = False
+25.0568 	EXP 	fixation: autoDraw = True
+25.5526 	EXP 	Sound sound_1 started
+25.5529 	EXP 	fixation: autoDraw = False
+26.0124 	EXP 	Sound sound_1 reached end of file
+26.0124 	EXP 	Sound sound_1 reached end of file
+26.0432 	INFO 	Keyboard events cleared
+26.0430 	EXP 	image: autoDraw = True
+26.2910 	EXP 	New trial (rep=0, index=11): OrderedDict([('sound_file_name', 'final_white_noise_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+26.2961 	DATA 	Keypress: z
+26.3000 	EXP 	fixation: autoDraw = False
+26.3000 	EXP 	image: autoDraw = False
+26.3000 	EXP 	fixation: autoDraw = True
+26.7932 	EXP 	Sound sound_1 started
+26.7923 	EXP 	fixation: autoDraw = False
+27.2556 	EXP 	Sound sound_1 reached end of file
+27.2556 	EXP 	Sound sound_1 reached end of file
+27.2865 	INFO 	Keyboard events cleared
+27.2862 	EXP 	image: autoDraw = True
+27.4728 	EXP 	New trial (rep=1, index=0): OrderedDict([('sound_file_name', 'final_white_noise_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+27.4763 	DATA 	Keypress: x
+27.4803 	EXP 	fixation: autoDraw = False
+27.4803 	EXP 	image: autoDraw = False
+27.4803 	EXP 	fixation: autoDraw = True
+27.4863 	DATA 	Keypress: z
+27.9759 	EXP 	Sound sound_1 started
+27.9759 	EXP 	fixation: autoDraw = False
+28.4391 	EXP 	Sound sound_1 reached end of file
+28.4392 	EXP 	Sound sound_1 reached end of file
+28.4698 	INFO 	Keyboard events cleared
+28.4696 	EXP 	image: autoDraw = True
+28.6396 	EXP 	New trial (rep=1, index=1): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+28.6429 	DATA 	Keypress: x
+28.6469 	EXP 	fixation: autoDraw = False
+28.6469 	EXP 	image: autoDraw = False
+28.6469 	EXP 	fixation: autoDraw = True
+29.1426 	EXP 	Sound sound_1 started
+29.1427 	EXP 	fixation: autoDraw = False
+29.6057 	EXP 	Sound sound_1 reached end of file
+29.6058 	EXP 	Sound sound_1 reached end of file
+29.6364 	INFO 	Keyboard events cleared
+29.6361 	EXP 	image: autoDraw = True
+29.8239 	EXP 	New trial (rep=1, index=2): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+29.8288 	DATA 	Keypress: z
+29.8326 	EXP 	fixation: autoDraw = False
+29.8326 	EXP 	image: autoDraw = False
+29.8326 	EXP 	fixation: autoDraw = True
+30.3261 	EXP 	Sound sound_1 started
+30.3262 	EXP 	fixation: autoDraw = False
+30.7892 	EXP 	Sound sound_1 reached end of file
+30.7892 	EXP 	Sound sound_1 reached end of file
+30.8198 	INFO 	Keyboard events cleared
+30.8196 	EXP 	image: autoDraw = True
+30.9806 	EXP 	New trial (rep=1, index=3): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+30.9839 	DATA 	Keypress: c
+31.0032 	EXP 	fixation: autoDraw = False
+31.0032 	EXP 	image: autoDraw = False
+31.0032 	EXP 	fixation: autoDraw = True
+31.4863 	EXP 	Sound sound_1 started
+31.4924 	EXP 	fixation: autoDraw = False
+31.9458 	EXP 	Sound sound_1 reached end of file
+31.9458 	EXP 	Sound sound_1 reached end of file
+31.9765 	INFO 	Keyboard events cleared
+31.9763 	EXP 	image: autoDraw = True
+32.1145 	EXP 	New trial (rep=1, index=4): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+32.1177 	DATA 	Keypress: x
+32.1227 	EXP 	fixation: autoDraw = False
+32.1227 	EXP 	image: autoDraw = False
+32.1227 	EXP 	fixation: autoDraw = True
+32.6197 	EXP 	Sound sound_1 started
+32.6191 	EXP 	fixation: autoDraw = False
+33.0793 	EXP 	Sound sound_1 reached end of file
+33.0793 	EXP 	Sound sound_1 reached end of file
+33.1101 	INFO 	Keyboard events cleared
+33.1098 	EXP 	image: autoDraw = True
+33.1911 	EXP 	New trial (rep=1, index=5): OrderedDict([('sound_file_name', 'final_white_noise_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+33.1944 	DATA 	Keypress: c
+33.1982 	EXP 	fixation: autoDraw = False
+33.1982 	EXP 	image: autoDraw = False
+33.1982 	EXP 	fixation: autoDraw = True
+33.6927 	EXP 	Sound sound_1 started
+33.6927 	EXP 	fixation: autoDraw = False
+34.1560 	EXP 	Sound sound_1 reached end of file
+34.1560 	EXP 	Sound sound_1 reached end of file
+34.1869 	INFO 	Keyboard events cleared
+34.1866 	EXP 	image: autoDraw = True
+34.3244 	EXP 	New trial (rep=1, index=6): OrderedDict([('sound_file_name', 'final_pure_tone_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+34.3278 	DATA 	Keypress: z
+34.3319 	EXP 	fixation: autoDraw = False
+34.3319 	EXP 	image: autoDraw = False
+34.3319 	EXP 	fixation: autoDraw = True
+34.8261 	EXP 	Sound sound_1 started
+34.8262 	EXP 	fixation: autoDraw = False
+35.2893 	EXP 	Sound sound_1 reached end of file
+35.2893 	EXP 	Sound sound_1 reached end of file
+35.3200 	INFO 	Keyboard events cleared
+35.3198 	EXP 	image: autoDraw = True
+35.4316 	EXP 	New trial (rep=1, index=7): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+35.4352 	DATA 	Keypress: x
+35.4395 	EXP 	fixation: autoDraw = False
+35.4395 	EXP 	image: autoDraw = False
+35.4395 	EXP 	fixation: autoDraw = True
+35.9361 	EXP 	Sound sound_1 started
+35.9362 	EXP 	fixation: autoDraw = False
+36.3958 	EXP 	Sound sound_1 reached end of file
+36.3958 	EXP 	Sound sound_1 reached end of file
+36.4267 	INFO 	Keyboard events cleared
+36.4264 	EXP 	image: autoDraw = True
+36.6808 	EXP 	New trial (rep=1, index=8): OrderedDict([('sound_file_name', 'final_white_noise_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+36.6863 	DATA 	Keypress: c
+36.6906 	EXP 	fixation: autoDraw = False
+36.6906 	EXP 	image: autoDraw = False
+36.6906 	EXP 	fixation: autoDraw = True
+37.1865 	EXP 	Sound sound_1 started
+37.1863 	EXP 	fixation: autoDraw = False
+37.6462 	EXP 	Sound sound_1 reached end of file
+37.6462 	EXP 	Sound sound_1 reached end of file
+37.6770 	INFO 	Keyboard events cleared
+37.6767 	EXP 	image: autoDraw = True
+37.8912 	EXP 	New trial (rep=1, index=9): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+37.8964 	DATA 	Keypress: v
+37.9002 	EXP 	fixation: autoDraw = False
+37.9002 	EXP 	image: autoDraw = False
+37.9002 	EXP 	fixation: autoDraw = True
+38.3938 	EXP 	Sound sound_1 started
+38.3924 	EXP 	fixation: autoDraw = False
+38.8559 	EXP 	Sound sound_1 reached end of file
+38.8560 	EXP 	Sound sound_1 reached end of file
+38.8870 	INFO 	Keyboard events cleared
+38.8866 	EXP 	image: autoDraw = True
+39.0646 	EXP 	New trial (rep=1, index=10): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+39.0690 	DATA 	Keypress: z
+39.0732 	EXP 	fixation: autoDraw = False
+39.0732 	EXP 	image: autoDraw = False
+39.0732 	EXP 	fixation: autoDraw = True
+39.5694 	EXP 	Sound sound_1 started
+39.5701 	EXP 	fixation: autoDraw = False
+40.0293 	EXP 	Sound sound_1 reached end of file
+40.0294 	EXP 	Sound sound_1 reached end of file
+40.0603 	INFO 	Keyboard events cleared
+40.0601 	EXP 	image: autoDraw = True
+40.2309 	EXP 	New trial (rep=1, index=11): OrderedDict([('sound_file_name', 'final_white_noise_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+40.2361 	DATA 	Keypress: z
+40.2405 	EXP 	fixation: autoDraw = False
+40.2405 	EXP 	image: autoDraw = False
+40.2405 	EXP 	fixation: autoDraw = True
+40.7366 	EXP 	Sound sound_1 started
+40.7361 	EXP 	fixation: autoDraw = False
+41.1962 	EXP 	Sound sound_1 reached end of file
+41.1962 	EXP 	Sound sound_1 reached end of file
+41.2272 	INFO 	Keyboard events cleared
+41.2269 	EXP 	image: autoDraw = True
+41.5409 	EXP 	New trial (rep=2, index=0): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+41.5452 	DATA 	Keypress: x
+41.5490 	EXP 	fixation: autoDraw = False
+41.5490 	EXP 	image: autoDraw = False
+41.5490 	EXP 	fixation: autoDraw = True
+42.0433 	EXP 	Sound sound_1 started
+42.0426 	EXP 	fixation: autoDraw = False
+42.4321 	DATA 	Keypress: x
+42.5062 	EXP 	Sound sound_1 reached end of file
+42.5062 	EXP 	Sound sound_1 reached end of file
+42.5370 	INFO 	Keyboard events cleared
+42.5368 	EXP 	image: autoDraw = True
+42.8978 	EXP 	New trial (rep=2, index=1): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+42.9032 	DATA 	Keypress: c
+42.9075 	EXP 	fixation: autoDraw = False
+42.9075 	EXP 	image: autoDraw = False
+42.9075 	EXP 	fixation: autoDraw = True
+43.4033 	EXP 	Sound sound_1 started
+43.4033 	EXP 	fixation: autoDraw = False
+43.8628 	EXP 	Sound sound_1 reached end of file
+43.8629 	EXP 	Sound sound_1 reached end of file
+43.8938 	INFO 	Keyboard events cleared
+43.8935 	EXP 	image: autoDraw = True
+44.1075 	EXP 	New trial (rep=2, index=2): OrderedDict([('sound_file_name', 'final_pure_tone_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+44.1111 	DATA 	Keypress: z
+44.1149 	EXP 	fixation: autoDraw = False
+44.1149 	EXP 	image: autoDraw = False
+44.1149 	EXP 	fixation: autoDraw = True
+44.6102 	EXP 	Sound sound_1 started
+44.6095 	EXP 	fixation: autoDraw = False
+45.0731 	EXP 	Sound sound_1 reached end of file
+45.0731 	EXP 	Sound sound_1 reached end of file
+45.1039 	INFO 	Keyboard events cleared
+45.1036 	EXP 	image: autoDraw = True
+45.3078 	EXP 	New trial (rep=2, index=3): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+45.3114 	DATA 	Keypress: x
+45.3155 	EXP 	fixation: autoDraw = False
+45.3155 	EXP 	image: autoDraw = False
+45.3155 	EXP 	fixation: autoDraw = True
+45.8104 	EXP 	Sound sound_1 started
+45.8095 	EXP 	fixation: autoDraw = False
+46.2731 	EXP 	Sound sound_1 reached end of file
+46.2732 	EXP 	Sound sound_1 reached end of file
+46.3038 	INFO 	Keyboard events cleared
+46.3036 	EXP 	image: autoDraw = True
+46.9645 	EXP 	New trial (rep=2, index=4): OrderedDict([('sound_file_name', 'final_white_noise_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+46.9691 	DATA 	Keypress: v
+46.9735 	EXP 	fixation: autoDraw = False
+46.9735 	EXP 	image: autoDraw = False
+46.9735 	EXP 	fixation: autoDraw = True
+47.4702 	EXP 	Sound sound_1 started
+47.4699 	EXP 	fixation: autoDraw = False
+47.9296 	EXP 	Sound sound_1 reached end of file
+47.9297 	EXP 	Sound sound_1 reached end of file
+47.9605 	INFO 	Keyboard events cleared
+47.9602 	EXP 	image: autoDraw = True
+48.1648 	EXP 	New trial (rep=2, index=5): OrderedDict([('sound_file_name', 'final_white_noise_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+48.1698 	DATA 	Keypress: c
+48.1741 	EXP 	fixation: autoDraw = False
+48.1741 	EXP 	image: autoDraw = False
+48.1741 	EXP 	fixation: autoDraw = True
+48.6697 	EXP 	Sound sound_1 started
+48.6704 	EXP 	fixation: autoDraw = False
+49.1301 	EXP 	Sound sound_1 reached end of file
+49.1302 	EXP 	Sound sound_1 reached end of file
+49.1609 	INFO 	Keyboard events cleared
+49.1606 	EXP 	image: autoDraw = True
+49.3085 	EXP 	New trial (rep=2, index=6): OrderedDict([('sound_file_name', 'final_white_noise_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+49.3134 	DATA 	Keypress: z
+49.3175 	EXP 	fixation: autoDraw = False
+49.3175 	EXP 	image: autoDraw = False
+49.3175 	EXP 	fixation: autoDraw = True
+49.8104 	EXP 	Sound sound_1 started
+49.8094 	EXP 	fixation: autoDraw = False
+50.2730 	EXP 	Sound sound_1 reached end of file
+50.2730 	EXP 	Sound sound_1 reached end of file
+50.3036 	INFO 	Keyboard events cleared
+50.3033 	EXP 	image: autoDraw = True
+50.4818 	EXP 	New trial (rep=2, index=7): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+50.4888 	DATA 	Keypress: x
+50.4924 	EXP 	fixation: autoDraw = False
+50.4924 	EXP 	image: autoDraw = False
+50.4924 	EXP 	fixation: autoDraw = True
+50.9864 	EXP 	Sound sound_1 started
+50.9871 	EXP 	fixation: autoDraw = False
+51.4460 	EXP 	Sound sound_1 reached end of file
+51.4461 	EXP 	Sound sound_1 reached end of file
+51.4778 	INFO 	Keyboard events cleared
+51.4775 	EXP 	image: autoDraw = True
+53.7655 	EXP 	New trial (rep=2, index=8): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+53.7710 	DATA 	Keypress: c
+53.7749 	EXP 	fixation: autoDraw = False
+53.7749 	EXP 	image: autoDraw = False
+53.7749 	EXP 	fixation: autoDraw = True
+54.2703 	EXP 	Sound sound_1 started
+54.2703 	EXP 	fixation: autoDraw = False
+54.7297 	EXP 	Sound sound_1 reached end of file
+54.7298 	EXP 	Sound sound_1 reached end of file
+54.7606 	INFO 	Keyboard events cleared
+54.7604 	EXP 	image: autoDraw = True
+55.4582 	EXP 	New trial (rep=2, index=9): OrderedDict([('sound_file_name', 'final_white_noise_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+55.4637 	DATA 	Keypress: v
+55.4676 	EXP 	fixation: autoDraw = False
+55.4676 	EXP 	image: autoDraw = False
+55.4676 	EXP 	fixation: autoDraw = True
+55.9601 	EXP 	Sound sound_1 started
+55.9606 	EXP 	fixation: autoDraw = False
+56.4233 	EXP 	Sound sound_1 reached end of file
+56.4234 	EXP 	Sound sound_1 reached end of file
+56.4540 	INFO 	Keyboard events cleared
+56.4538 	EXP 	image: autoDraw = True
+56.7417 	EXP 	New trial (rep=2, index=10): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+56.7468 	DATA 	Keypress: c
+56.7508 	EXP 	fixation: autoDraw = False
+56.7508 	EXP 	image: autoDraw = False
+56.7508 	EXP 	fixation: autoDraw = True
+57.2436 	EXP 	Sound sound_1 started
+57.2436 	EXP 	fixation: autoDraw = False
+57.7067 	EXP 	Sound sound_1 reached end of file
+57.7068 	EXP 	Sound sound_1 reached end of file
+57.7376 	INFO 	Keyboard events cleared
+57.7373 	EXP 	image: autoDraw = True
+57.8487 	EXP 	New trial (rep=2, index=11): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+57.8538 	DATA 	Keypress: z
+57.8582 	EXP 	fixation: autoDraw = False
+57.8582 	EXP 	image: autoDraw = False
+57.8582 	EXP 	fixation: autoDraw = True
+58.3536 	EXP 	Sound sound_1 started
+58.3537 	EXP 	fixation: autoDraw = False
+58.8133 	EXP 	Sound sound_1 reached end of file
+58.8133 	EXP 	Sound sound_1 reached end of file
+58.8441 	INFO 	Keyboard events cleared
+58.8438 	EXP 	image: autoDraw = True
+58.9584 	EXP 	New trial (rep=3, index=0): OrderedDict([('sound_file_name', 'final_white_noise_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+58.9620 	DATA 	Keypress: x
+58.9662 	EXP 	fixation: autoDraw = False
+58.9662 	EXP 	image: autoDraw = False
+58.9662 	EXP 	fixation: autoDraw = True
+59.4603 	EXP 	Sound sound_1 started
+59.4601 	EXP 	fixation: autoDraw = False
+59.9235 	EXP 	Sound sound_1 reached end of file
+59.9236 	EXP 	Sound sound_1 reached end of file
+59.9544 	INFO 	Keyboard events cleared
+59.9542 	EXP 	image: autoDraw = True
+60.1083 	EXP 	New trial (rep=3, index=1): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+60.1118 	DATA 	Keypress: c
+60.1158 	EXP 	fixation: autoDraw = False
+60.1158 	EXP 	image: autoDraw = False
+60.1158 	EXP 	fixation: autoDraw = True
+60.6109 	EXP 	Sound sound_1 started
+60.6099 	EXP 	fixation: autoDraw = False
+61.0733 	EXP 	Sound sound_1 reached end of file
+61.0734 	EXP 	Sound sound_1 reached end of file
+61.1042 	INFO 	Keyboard events cleared
+61.1040 	EXP 	image: autoDraw = True
+61.2418 	EXP 	New trial (rep=3, index=2): OrderedDict([('sound_file_name', 'final_white_noise_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+61.2465 	DATA 	Keypress: v
+61.2505 	EXP 	fixation: autoDraw = False
+61.2505 	EXP 	image: autoDraw = False
+61.2505 	EXP 	fixation: autoDraw = True
+61.7438 	EXP 	Sound sound_1 started
+61.7435 	EXP 	fixation: autoDraw = False
+62.2068 	EXP 	Sound sound_1 reached end of file
+62.2068 	EXP 	Sound sound_1 reached end of file
+62.2378 	INFO 	Keyboard events cleared
+62.2375 	EXP 	image: autoDraw = True
+62.4085 	EXP 	New trial (rep=3, index=3): OrderedDict([('sound_file_name', 'final_white_noise_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+62.4128 	DATA 	Keypress: z
+62.4169 	EXP 	fixation: autoDraw = False
+62.4169 	EXP 	image: autoDraw = False
+62.4169 	EXP 	fixation: autoDraw = True
+62.9110 	EXP 	Sound sound_1 started
+62.9102 	EXP 	fixation: autoDraw = False
+63.3736 	EXP 	Sound sound_1 reached end of file
+63.3737 	EXP 	Sound sound_1 reached end of file
+63.4043 	INFO 	Keyboard events cleared
+63.4041 	EXP 	image: autoDraw = True
+63.6419 	EXP 	New trial (rep=3, index=4): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+63.6453 	DATA 	Keypress: x
+63.6491 	EXP 	fixation: autoDraw = False
+63.6491 	EXP 	image: autoDraw = False
+63.6491 	EXP 	fixation: autoDraw = True
+64.1444 	EXP 	Sound sound_1 started
+64.1435 	EXP 	fixation: autoDraw = False
+64.6068 	EXP 	Sound sound_1 reached end of file
+64.6068 	EXP 	Sound sound_1 reached end of file
+64.6377 	INFO 	Keyboard events cleared
+64.6375 	EXP 	image: autoDraw = True
+64.9418 	EXP 	New trial (rep=3, index=5): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+64.9472 	DATA 	Keypress: c
+64.9512 	EXP 	fixation: autoDraw = False
+64.9512 	EXP 	image: autoDraw = False
+64.9512 	EXP 	fixation: autoDraw = True
+65.4438 	EXP 	Sound sound_1 started
+65.4440 	EXP 	fixation: autoDraw = False
+65.9069 	EXP 	Sound sound_1 reached end of file
+65.9069 	EXP 	Sound sound_1 reached end of file
+65.9377 	INFO 	Keyboard events cleared
+65.9375 	EXP 	image: autoDraw = True
+66.1829 	EXP 	New trial (rep=3, index=6): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+66.1877 	DATA 	Keypress: v
+66.1920 	EXP 	fixation: autoDraw = False
+66.1920 	EXP 	image: autoDraw = False
+66.1920 	EXP 	fixation: autoDraw = True
+66.6870 	EXP 	Sound sound_1 started
+66.6875 	EXP 	fixation: autoDraw = False
+67.1467 	EXP 	Sound sound_1 reached end of file
+67.1468 	EXP 	Sound sound_1 reached end of file
+67.1780 	INFO 	Keyboard events cleared
+67.1777 	EXP 	image: autoDraw = True
+67.3488 	EXP 	New trial (rep=3, index=7): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+67.3524 	DATA 	Keypress: z
+67.3573 	EXP 	fixation: autoDraw = False
+67.3573 	EXP 	image: autoDraw = False
+67.3573 	EXP 	fixation: autoDraw = True
+67.8537 	EXP 	Sound sound_1 started
+67.8543 	EXP 	fixation: autoDraw = False
+68.3137 	EXP 	Sound sound_1 reached end of file
+68.3137 	EXP 	Sound sound_1 reached end of file
+68.3449 	INFO 	Keyboard events cleared
+68.3446 	EXP 	image: autoDraw = True
+68.5325 	EXP 	New trial (rep=3, index=8): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+68.5379 	DATA 	Keypress: x
+68.5419 	EXP 	fixation: autoDraw = False
+68.5419 	EXP 	image: autoDraw = False
+68.5419 	EXP 	fixation: autoDraw = True
+69.0371 	EXP 	Sound sound_1 started
+69.0376 	EXP 	fixation: autoDraw = False
+69.4970 	EXP 	Sound sound_1 reached end of file
+69.4970 	EXP 	Sound sound_1 reached end of file
+69.5281 	INFO 	Keyboard events cleared
+69.5278 	EXP 	image: autoDraw = True
+69.7253 	EXP 	New trial (rep=3, index=9): OrderedDict([('sound_file_name', 'final_pure_tone_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+69.7286 	DATA 	Keypress: v
+69.7326 	EXP 	fixation: autoDraw = False
+69.7326 	EXP 	image: autoDraw = False
+69.7326 	EXP 	fixation: autoDraw = True
+70.2275 	EXP 	Sound sound_1 started
+70.2276 	EXP 	fixation: autoDraw = False
+70.6905 	EXP 	Sound sound_1 reached end of file
+70.6905 	EXP 	Sound sound_1 reached end of file
+70.7214 	INFO 	Keyboard events cleared
+70.7212 	EXP 	image: autoDraw = True
+70.8416 	EXP 	New trial (rep=3, index=10): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+70.8449 	DATA 	Keypress: z
+70.8488 	EXP 	fixation: autoDraw = False
+70.8488 	EXP 	image: autoDraw = False
+70.8488 	EXP 	fixation: autoDraw = True
+71.3448 	EXP 	Sound sound_1 started
+71.3438 	EXP 	fixation: autoDraw = False
+71.8073 	EXP 	Sound sound_1 reached end of file
+71.8073 	EXP 	Sound sound_1 reached end of file
+71.8381 	INFO 	Keyboard events cleared
+71.8378 	EXP 	image: autoDraw = True
+72.1420 	EXP 	New trial (rep=3, index=11): OrderedDict([('sound_file_name', 'final_white_noise_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+72.1454 	DATA 	Keypress: x
+72.1491 	EXP 	fixation: autoDraw = False
+72.1491 	EXP 	image: autoDraw = False
+72.1491 	EXP 	fixation: autoDraw = True
+72.6444 	EXP 	Sound sound_1 started
+72.6437 	EXP 	fixation: autoDraw = False
+73.1072 	EXP 	Sound sound_1 reached end of file
+73.1072 	EXP 	Sound sound_1 reached end of file
+73.1381 	INFO 	Keyboard events cleared
+73.1379 	EXP 	image: autoDraw = True
+73.4421 	EXP 	New trial (rep=4, index=0): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+73.4454 	DATA 	Keypress: c
+73.4492 	EXP 	fixation: autoDraw = False
+73.4492 	EXP 	image: autoDraw = False
+73.4492 	EXP 	fixation: autoDraw = True
+73.9446 	EXP 	Sound sound_1 started
+73.9443 	EXP 	fixation: autoDraw = False
+74.4074 	EXP 	Sound sound_1 reached end of file
+74.4075 	EXP 	Sound sound_1 reached end of file
+74.4381 	INFO 	Keyboard events cleared
+74.4379 	EXP 	image: autoDraw = True
+74.7327 	EXP 	New trial (rep=4, index=1): OrderedDict([('sound_file_name', 'final_white_noise_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+74.7360 	DATA 	Keypress: v
+74.7409 	EXP 	fixation: autoDraw = False
+74.7409 	EXP 	image: autoDraw = False
+74.7409 	EXP 	fixation: autoDraw = True
+75.2373 	EXP 	Sound sound_1 started
+75.2380 	EXP 	fixation: autoDraw = False
+75.6974 	EXP 	Sound sound_1 reached end of file
+75.6975 	EXP 	Sound sound_1 reached end of file
+75.7281 	INFO 	Keyboard events cleared
+75.7279 	EXP 	image: autoDraw = True
+75.9823 	EXP 	New trial (rep=4, index=2): OrderedDict([('sound_file_name', 'final_white_noise_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+75.9860 	DATA 	Keypress: c
+75.9907 	EXP 	fixation: autoDraw = False
+75.9907 	EXP 	image: autoDraw = False
+75.9907 	EXP 	fixation: autoDraw = True
+76.4877 	EXP 	Sound sound_1 started
+76.4880 	EXP 	fixation: autoDraw = False
+76.9471 	EXP 	Sound sound_1 reached end of file
+76.9472 	EXP 	Sound sound_1 reached end of file
+76.9781 	INFO 	Keyboard events cleared
+76.9779 	EXP 	image: autoDraw = True
+77.2421 	EXP 	New trial (rep=4, index=3): OrderedDict([('sound_file_name', 'final_white_noise_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+77.2455 	DATA 	Keypress: z
+77.2493 	EXP 	fixation: autoDraw = False
+77.2493 	EXP 	image: autoDraw = False
+77.2493 	EXP 	fixation: autoDraw = True
+77.7442 	EXP 	Sound sound_1 started
+77.7452 	EXP 	fixation: autoDraw = False
+78.2074 	EXP 	Sound sound_1 reached end of file
+78.2074 	EXP 	Sound sound_1 reached end of file
+78.2383 	INFO 	Keyboard events cleared
+78.2380 	EXP 	image: autoDraw = True
+78.3991 	EXP 	New trial (rep=4, index=4): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+78.4024 	DATA 	Keypress: x
+78.4215 	EXP 	fixation: autoDraw = False
+78.4215 	EXP 	image: autoDraw = False
+78.4215 	EXP 	fixation: autoDraw = True
+78.9041 	EXP 	Sound sound_1 started
+78.9111 	EXP 	fixation: autoDraw = False
+79.3638 	EXP 	Sound sound_1 reached end of file
+79.3639 	EXP 	Sound sound_1 reached end of file
+79.3948 	INFO 	Keyboard events cleared
+79.3945 	EXP 	image: autoDraw = True
+79.6497 	EXP 	New trial (rep=4, index=5): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+79.6532 	DATA 	Keypress: c
+79.6576 	EXP 	fixation: autoDraw = False
+79.6576 	EXP 	image: autoDraw = False
+79.6576 	EXP 	fixation: autoDraw = True
+80.1541 	EXP 	Sound sound_1 started
+80.1547 	EXP 	fixation: autoDraw = False
+80.6140 	EXP 	Sound sound_1 reached end of file
+80.6140 	EXP 	Sound sound_1 reached end of file
+80.6452 	INFO 	Keyboard events cleared
+80.6450 	EXP 	image: autoDraw = True
+80.8995 	EXP 	New trial (rep=4, index=6): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+80.9028 	DATA 	Keypress: z
+80.9076 	EXP 	fixation: autoDraw = False
+80.9076 	EXP 	image: autoDraw = False
+80.9076 	EXP 	fixation: autoDraw = True
+81.4045 	EXP 	Sound sound_1 started
+81.4048 	EXP 	fixation: autoDraw = False
+81.8640 	EXP 	Sound sound_1 reached end of file
+81.8641 	EXP 	Sound sound_1 reached end of file
+81.8950 	INFO 	Keyboard events cleared
+81.8948 	EXP 	image: autoDraw = True
+82.4259 	EXP 	New trial (rep=4, index=7): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+82.4295 	DATA 	Keypress: v
+82.4336 	EXP 	fixation: autoDraw = False
+82.4336 	EXP 	image: autoDraw = False
+82.4336 	EXP 	fixation: autoDraw = True
+82.9283 	EXP 	Sound sound_1 started
+82.9276 	EXP 	fixation: autoDraw = False
+83.3910 	EXP 	Sound sound_1 reached end of file
+83.3910 	EXP 	Sound sound_1 reached end of file
+83.4219 	INFO 	Keyboard events cleared
+83.4216 	EXP 	image: autoDraw = True
+83.7431 	EXP 	New trial (rep=4, index=8): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+83.7465 	DATA 	Keypress: c
+83.7503 	EXP 	fixation: autoDraw = False
+83.7503 	EXP 	image: autoDraw = False
+83.7503 	EXP 	fixation: autoDraw = True
+84.2448 	EXP 	Sound sound_1 started
+84.2446 	EXP 	fixation: autoDraw = False
+84.7074 	EXP 	Sound sound_1 reached end of file
+84.7075 	EXP 	Sound sound_1 reached end of file
+84.7384 	INFO 	Keyboard events cleared
+84.7382 	EXP 	image: autoDraw = True
+85.2492 	EXP 	New trial (rep=4, index=9): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+85.2525 	DATA 	Keypress: x
+85.2718 	EXP 	fixation: autoDraw = False
+85.2718 	EXP 	image: autoDraw = False
+85.2718 	EXP 	fixation: autoDraw = True
+85.7543 	EXP 	Sound sound_1 started
+85.7613 	EXP 	fixation: autoDraw = False
+86.2137 	EXP 	Sound sound_1 reached end of file
+86.2138 	EXP 	Sound sound_1 reached end of file
+86.2451 	INFO 	Keyboard events cleared
+86.2448 	EXP 	image: autoDraw = True
+86.8667 	EXP 	New trial (rep=4, index=10): OrderedDict([('sound_file_name', 'final_white_noise_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+86.8704 	DATA 	Keypress: c
+86.8748 	EXP 	fixation: autoDraw = False
+86.8748 	EXP 	image: autoDraw = False
+86.8748 	EXP 	fixation: autoDraw = True
+87.3710 	EXP 	Sound sound_1 started
+87.3717 	EXP 	fixation: autoDraw = False
+87.8308 	EXP 	Sound sound_1 reached end of file
+87.8308 	EXP 	Sound sound_1 reached end of file
+87.8619 	INFO 	Keyboard events cleared
+87.8615 	EXP 	image: autoDraw = True
+91.0161 	EXP 	New trial (rep=4, index=11): OrderedDict([('sound_file_name', 'final_pure_tone_0_right.wav'), ('Angle', 0), ('Channel', 'Right')])
+91.0197 	DATA 	Keypress: c
+91.0245 	EXP 	fixation: autoDraw = False
+91.0245 	EXP 	image: autoDraw = False
+91.0245 	EXP 	fixation: autoDraw = True
+91.5218 	EXP 	Sound sound_1 started
+91.5212 	EXP 	fixation: autoDraw = False
+91.9812 	EXP 	Sound sound_1 reached end of file
+91.9812 	EXP 	Sound sound_1 reached end of file
+92.0121 	INFO 	Keyboard events cleared
+92.0118 	EXP 	image: autoDraw = True
+92.3597 	EXP 	New trial (rep=5, index=0): OrderedDict([('sound_file_name', 'final_white_noise_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+92.3631 	DATA 	Keypress: c
+92.3673 	EXP 	fixation: autoDraw = False
+92.3673 	EXP 	image: autoDraw = False
+92.3673 	EXP 	fixation: autoDraw = True
+92.8621 	EXP 	Sound sound_1 started
+92.8610 	EXP 	fixation: autoDraw = False
+93.3246 	EXP 	Sound sound_1 reached end of file
+93.3246 	EXP 	Sound sound_1 reached end of file
+93.3555 	INFO 	Keyboard events cleared
+93.3553 	EXP 	image: autoDraw = True
+94.9094 	EXP 	New trial (rep=5, index=1): OrderedDict([('sound_file_name', 'final_pure_tone_0_left.wav'), ('Angle', 0), ('Channel', 'Left')])
+94.9127 	DATA 	Keypress: z
+94.9165 	EXP 	fixation: autoDraw = False
+94.9165 	EXP 	image: autoDraw = False
+94.9165 	EXP 	fixation: autoDraw = True
+95.4115 	EXP 	Sound sound_1 started
+95.4115 	EXP 	fixation: autoDraw = False
+95.8749 	EXP 	Sound sound_1 reached end of file
+95.8749 	EXP 	Sound sound_1 reached end of file
+95.9054 	INFO 	Keyboard events cleared
+95.9052 	EXP 	image: autoDraw = True
+96.2931 	EXP 	New trial (rep=5, index=2): OrderedDict([('sound_file_name', 'final_pure_tone_30_right.wav'), ('Angle', 30), ('Channel', 'Right')])
+96.2966 	DATA 	Keypress: c
+96.3008 	EXP 	fixation: autoDraw = False
+96.3008 	EXP 	image: autoDraw = False
+96.3008 	EXP 	fixation: autoDraw = True
+96.7949 	EXP 	Sound sound_1 started
+96.7951 	EXP 	fixation: autoDraw = False
+97.2582 	EXP 	Sound sound_1 reached end of file
+97.2582 	EXP 	Sound sound_1 reached end of file
+97.2888 	INFO 	Keyboard events cleared
+97.2886 	EXP 	image: autoDraw = True
+98.8930 	EXP 	New trial (rep=5, index=3): OrderedDict([('sound_file_name', 'final_pure_tone_90_right.wav'), ('Angle', 90), ('Channel', 'Right')])
+98.8965 	DATA 	Keypress: v
+98.9004 	EXP 	fixation: autoDraw = False
+98.9004 	EXP 	image: autoDraw = False
+98.9004 	EXP 	fixation: autoDraw = True
+99.3954 	EXP 	Sound sound_1 started
+99.3949 	EXP 	fixation: autoDraw = False
+99.8583 	EXP 	Sound sound_1 reached end of file
+99.8583 	EXP 	Sound sound_1 reached end of file
+99.8890 	INFO 	Keyboard events cleared
+99.8888 	EXP 	image: autoDraw = True
+100.0762 	EXP 	New trial (rep=5, index=4): OrderedDict([('sound_file_name', 'final_white_noise_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+100.0795 	DATA 	Keypress: b
+100.0833 	EXP 	fixation: autoDraw = False
+100.0833 	EXP 	image: autoDraw = False
+100.0833 	EXP 	fixation: autoDraw = True
+100.5785 	EXP 	Sound sound_1 started
+100.5785 	EXP 	fixation: autoDraw = False
+101.0415 	EXP 	Sound sound_1 reached end of file
+101.0415 	EXP 	Sound sound_1 reached end of file
+101.0724 	INFO 	Keyboard events cleared
+101.0722 	EXP 	image: autoDraw = True
+102.3163 	EXP 	New trial (rep=5, index=5): OrderedDict([('sound_file_name', 'final_pure_tone_30_left.wav'), ('Angle', 30), ('Channel', 'Left')])
+102.3197 	DATA 	Keypress: x
+102.3389 	EXP 	fixation: autoDraw = False
+102.3389 	EXP 	image: autoDraw = False
+102.3389 	EXP 	fixation: autoDraw = True
+102.8219 	EXP 	Sound sound_1 started
+102.8281 	EXP 	fixation: autoDraw = False
+103.1944 	DATA 	Keypress: z
+103.2815 	EXP 	Sound sound_1 reached end of file
+103.2816 	EXP 	Sound sound_1 reached end of file
+103.3130 	INFO 	Keyboard events cleared
+103.3126 	EXP 	image: autoDraw = True
+103.6933 	EXP 	New trial (rep=5, index=6): OrderedDict([('sound_file_name', 'final_pure_tone_90_left.wav'), ('Angle', 90), ('Channel', 'Left')])
+103.6965 	DATA 	Keypress: z
+103.7002 	EXP 	fixation: autoDraw = False
+103.7002 	EXP 	image: autoDraw = False
+103.7002 	EXP 	fixation: autoDraw = True
+104.1959 	EXP 	Sound sound_1 started
+104.1949 	EXP 	fixation: autoDraw = False
+104.6584 	EXP 	Sound sound_1 reached end of file
+104.6585 	EXP 	Sound sound_1 reached end of file
+104.6886 	INFO 	Keyboard events cleared
+104.6883 	EXP 	image: autoDraw = True
+105.1900 	DATA 	Keypress: escape
+105.1994 	EXP 	experiment: status = STOPPED
+105.2050 	EXP 	image: autoDraw = False
+105.2078 	EXP 	experiment: status = STOPPED
+105.2255 	INFO 	saved data to '/Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/600827_experiment_2024-12-03_16h27.03.442.csv'
+105.2270 	INFO 	saved data to /Users/pushkarsingh/Documents/01 University/01 Ratnam Lab /HRTF Cue/data/600827_experiment_2024-12-03_16h27.03.442.psydat
+105.2469 	EXP 	window1: mouseVisible = True
+105.7540 	DEBUG 	Saving data for experiment ExperimentHandler
